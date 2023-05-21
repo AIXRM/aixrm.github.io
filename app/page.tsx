@@ -1,6 +1,6 @@
 import Card from "@/components/home/card";
 import Balancer from "react-wrap-balancer";
-import { DEPLOY_URL, DESCRIPTION } from "@/lib/constants";
+import { DESCRIPTION } from "@/lib/constants";
 import WebVitals from "@/components/home/web-vitals";
 import ComponentGrid from "@/components/home/component-grid";
 import Image from "next/image";
