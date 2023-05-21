@@ -1,0 +1,4 @@
+Sitemap: https://AIxRM.dev/sitemap.xml
+
+User-agent: *
+Disallow: /api
